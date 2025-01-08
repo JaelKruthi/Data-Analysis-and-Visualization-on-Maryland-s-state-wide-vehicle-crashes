@@ -11,22 +11,30 @@ The primary goal of this analysis is to provide actionable insights on accident 
 The repository includes all the necessary code for:
 
 Data cleaning: Handling missing values, outliers, and irrelevant data.
+
 Data merging: Combining multiple data sources (e.g., accident details, weather conditions, vehicle types).
+
 Data visualization: Generating clear visualizations for trends and distributions.
+
 Statistical analysis: Conducting hypothesis tests and assessing significant patterns.
+
 Trend analysis: Identifying accident patterns based on location, demographics, weather, and time.
 
 # Results & Evaluation: 
 Average Age of Drivers by County
+
 Gender-Based Accident Distribution
+
 Seasonal & Temporal Patterns in Accidents
+
 Z-test on Age and Accident Frequency
+
 Histogram of Data Distributions: A series of histograms were generated for various numerical columns, providing insights into the distributions of key variables (e.g., age, accident severity, vehicle types).
 This helped identify outliers and common patterns in the accident data (e.g., most drivers involved in accidents tend to be within certain age ranges).
 
-<img width="914" alt="image" src="https://github.com/user-attachments/assets/6d0cefce-5df1-4d8c-9280-1280930eba94" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/6d0cefce-5df1-4d8c-9280-1280930eba94" />
 
-<img width="904" alt="Pasted Graphic" src="https://github.com/user-attachments/assets/63abefbe-e97f-43b6-8526-edcf9874d084" />
+<img width="500" alt="Pasted Graphic" src="https://github.com/user-attachments/assets/63abefbe-e97f-43b6-8526-edcf9874d084" />
 
 
 
